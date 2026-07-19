@@ -629,7 +629,7 @@
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
 		<Style_Checkbox>false</Style_Checkbox>
-		<Font>1</Font>
+		<Font>6</Font>
 		<FontShadow>true</FontShadow>	
 		<DecalOffset>
 			<X>1</X>
